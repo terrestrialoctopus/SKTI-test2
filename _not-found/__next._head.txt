@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[97367,["/SKTI-test/_next/static/chunks/01xlw8hd842-c.js","/SKTI-test/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+3:I[97367,["/SKTI-test/_next/static/chunks/01xlw8hd842-c.js","/SKTI-test/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[27201,["/SKTI-test/_next/static/chunks/01xlw8hd842-c.js","/SKTI-test/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"SKMBTI — 连环杀手行为类型测试"}],["$","meta","1",{"name":"description","content":"36道日常题目，基于犯罪心理学经典框架，匹配24个真实历史案件人格原型。本测试为娱乐用途，不构成任何心理学诊断。"}],["$","meta","2",{"name":"keywords","content":"SKMBTI,连环杀手,犯罪心理学,人格测试,行为类型"}],["$","link","3",{"rel":"icon","href":"/icon.svg"}],["$","$L5","4",{}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"f4osJb2VgWnci1_rB_bWO"}
